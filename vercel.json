@@ -2,7 +2,7 @@
     "version": 2,
     "framework": null,
     "functions": {
-        "api/index.php": { "runtime": "vercel-php@0.6.0" }
+        "api/index.php": { "runtime": "vercel-php@0.5.3" }
     },
     "routes": [
         { "src": "/build/(.*)", "dest": "/public/build/" },
@@ -30,6 +30,6 @@
         "DB_PORT": "3307",
         "DB_DATABASE": "perpus_beatseries",
         "DB_USERNAME": "perpus_beatseries",
-         "PHP_VERSION": "8.2"
+        "PHP_VERSION": "8.1"
     }
 }
