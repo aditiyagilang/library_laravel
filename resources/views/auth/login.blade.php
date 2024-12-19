@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
     <title>Sistem Manajemen Perpustakaan</title>
-    <link rel="icon" type="image/x-icon" href="{{ asset('assets/img/favicon/favicon.ico') }}" />
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/8074/8074804.png" />
     <link rel="stylesheet" href="{{ asset('assets/vendor/css/core.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/vendor/css/theme-default.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/css/demo.css') }}" />
